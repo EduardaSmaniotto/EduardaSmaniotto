@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EduardaSmaniotto
-- 👀 I’m interested in learn to program.
-- 🌱 I’m currently learning html and css.
+- 👀 I’m interested in learn to program;
 - 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me @dudasinapse@gmail.com
 
