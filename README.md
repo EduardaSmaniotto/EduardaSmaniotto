@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @EduardaSmaniotto
-- 👀 I’m interested in learn to program;
-- 💞️ I’m looking to collaborate on code.
-- 📫 How to reach me @dudasinapse@gmail.com
+- Aluna do Connect Biopark;
+- Estudante de Sistemas para Internet na UTFPR;
+- Tenho alguns conhecimentos em JavaScript, HTML, CSS, C, Java, Postgres;
+- Estudando Java, Flutter, C, MySQL;
+- Interessada em aprender;
+- meu email: eduardasmaniotto@alunos.utfpr.edu.br
 
 <!---
 EduardaSmaniotto/EduardaSmaniotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
